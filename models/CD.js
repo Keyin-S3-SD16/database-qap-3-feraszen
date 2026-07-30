@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-// Simple CD schema
+// CD schema definition
 const cdSchema = new mongoose.Schema({
   title: {
     type: String,
