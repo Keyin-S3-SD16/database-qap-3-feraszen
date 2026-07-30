@@ -94,5 +94,12 @@ cdCollection --> cds (stores CD documents)
 
 Data can be viewed using MongoDB Compass.
 
+## Technologies
+
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+
 ✅ Status
 All CRUD operations are fully implemented and tested using Thunder Client.
