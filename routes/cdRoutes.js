@@ -1,3 +1,5 @@
+// Retrieve all CDs with optional filters
+
 const express = require('express');
 const router = express.Router();
 const CD = require('../models/CD');
